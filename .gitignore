@@ -1,0 +1,4 @@
+/node_modules
+/src/elm-stuff
+.tern-port
+/public/main.js
