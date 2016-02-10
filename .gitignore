@@ -2,3 +2,5 @@
 /src/elm-stuff
 .tern-port
 /public/main.js
+/elm-stuff
+serve
